@@ -1,8 +1,6 @@
-TinkerCad Simulation-https://www.tinkercad.com/things/hVsMjmt2osO-sahanas-vision-assist?sharecode=NEBM9lrSAVAR6OIewdNx1-51GAW-KvwX5H53XhAtmSI
-
 ![Vision Assist](https://github.com/Sahana-srmist/Vision-Assist/blob/main/vision%20assist%20sahana.jpeg?raw=true)
 
-
+TinkerCad Simulation-https://www.tinkercad.com/things/hVsMjmt2osO-sahanas-vision-assist?sharecode=NEBM9lrSAVAR6OIewdNx1-51GAW-KvwX5H53XhAtmSI
 
 Project Description-Vision Assist is an assistive device designed to help visually impaired individuals navigate their surroundings. This project utilizes Arduino to process inputs from sensors and provide real-time feedback.
 
